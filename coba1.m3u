@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fox_Broadcasting_Company_logo_%282019%29.svg/640px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA Channel", FOX (1080p) #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7 #EXTVLCOPT:http-referrer=https://otte.cache.aiv-cdn.net/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/sgp-nitro/live/clients/enc/evsyvclde9/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/evsyvclde9/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fox_Broadcasting_Company_logo_%282019%29.svg/640px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="USA Channel", FOX (2160p HDR) #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d #EXTVLCOPT:http-referrer=https://otte.cache.aiv-cdn.net/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/sgp-nitro/live/clients/enc/o3pcgihepg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd 
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/o3pcgihepg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
